@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">Sobre mí</span></a>
+<span class="menu-text">Perfil</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./portfolio.html"> 
@@ -112,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -120,18 +120,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">En esta página</h2>
    
   <ul>
-  <li><a href="#nombre-apellido" id="toc-nombre-apellido" class="nav-link active" data-scroll-target="#nombre-apellido">Nombre Apellido</a></li>
-  <li><a href="#bienvenidoa" id="toc-bienvenidoa" class="nav-link" data-scroll-target="#bienvenidoa">Bienvenido(a)</a></li>
-  <li><a href="#contenido-del-sitio" id="toc-contenido-del-sitio" class="nav-link" data-scroll-target="#contenido-del-sitio">Contenido del sitio</a>
-  <ul class="collapse">
-  <li><a href="#perfil" id="toc-perfil" class="nav-link" data-scroll-target="#perfil">Perfil</a></li>
-  <li><a href="#portafolio" id="toc-portafolio" class="nav-link" data-scroll-target="#portafolio">Portafolio</a></li>
-  </ul></li>
+  <li><a href="#bienvenidoa" id="toc-bienvenidoa" class="nav-link active" data-scroll-target="#bienvenidoa">Bienvenido(a)</a></li>
+  <li><a href="#contenido-del-sitio" id="toc-contenido-del-sitio" class="nav-link" data-scroll-target="#contenido-del-sitio">Contenido del sitio</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -140,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -152,37 +147,49 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="nombre-apellido" class="level2">
-<h2 class="anchored" data-anchor-id="nombre-apellido">Nombre Apellido</h2>
-<p><strong>Estudiante de Bachillerato en Biología</strong><br>
-Escuela de Ciencias Biológicas<br>
+<div class="hero-portada">
+<section id="nombre-apellido" class="level1 hero-texto">
+<h1>Nombre Apellido</h1>
+<section id="estudiante-de-bachillerato-en-biología" class="level2">
+<h2 class="anchored" data-anchor-id="estudiante-de-bachillerato-en-biología">Estudiante de Bachillerato en Biología</h2>
+<p>Escuela de Ciencias Biológicas<br>
 Universidad Nacional, Costa Rica</p>
-<hr>
+<p><a href="./about.html" class="btn-portada">Ver mi perfil</a><br>
+<a href="./portfolio.html" class="btn-portada btn-secundario">Explorar mi portafolio</a></p>
 </section>
-<section id="bienvenidoa" class="level2">
+</section>
+<div class="hero-imagen">
+<p><img src="images/banner.jpg" class="img-fluid" alt="Imagen representativa de biodiversidad y trabajo científico"></p>
+</div>
+</div>
+<section id="bienvenidoa" class="level2 bloque-bienvenida">
 <h2 class="anchored" data-anchor-id="bienvenidoa">Bienvenido(a)</h2>
 <p>Este sitio web constituye mi <strong>portafolio digital académico</strong>, donde documentaré las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso <strong>Ecología de Poblaciones y Comunidades</strong>.</p>
 <p>Este portafolio utiliza herramientas de ciencia reproducible como <strong>R</strong>, <strong>Quarto</strong>, <strong>Git</strong> y <strong>GitHub</strong>, permitiendo organizar y compartir mi trabajo de manera profesional.</p>
-<hr>
 </section>
 <section id="contenido-del-sitio" class="level2">
 <h2 class="anchored" data-anchor-id="contenido-del-sitio">Contenido del sitio</h2>
-<section id="perfil" class="level3">
+<div class="tarjetas-inicio">
+<section id="perfil" class="level3 tarjeta-inicio">
 <h3 class="anchored" data-anchor-id="perfil">Perfil</h3>
 <p>Información personal, intereses académicos y experiencia.</p>
+<p><a href="./about.html">Ir al perfil →</a></p>
 </section>
-<section id="portafolio" class="level3">
+<section id="portafolio" class="level3 tarjeta-inicio">
 <h3 class="anchored" data-anchor-id="portafolio">Portafolio</h3>
 <p>Registro de las prácticas, proyectos y productos desarrollados durante el semestre.</p>
-<hr>
+<p><a href="./portfolio.html">Ver el portafolio →</a></p>
+</section>
+</div>
+<div class="mensaje-final">
 <blockquote class="blockquote">
-<p><em>“La ciencia solo adquiere valor cuando puede ser comunicada y reproducida.”</em></p>
+<p><em>La ciencia solo adquiere valor cuando puede ser comunicada y reproducida.</em></p>
 </blockquote>
+</div>
 <hr>
 <p><strong>Última actualización:</strong> Agosto 2026</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
