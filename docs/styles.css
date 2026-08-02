@@ -347,14 +347,41 @@ tbody tr:nth-child(even) {
    Pie de página
    --------------------------------------------------------- */
 
+/* ---------------------------------------------------------
+   Pie de página
+   --------------------------------------------------------- */
+
 .nav-footer {
-  background-color: var(--verde-oscuro);
-  color: rgba(255, 255, 255, 0.9);
-  border-top: 5px solid var(--amarillo);
-  padding-top: 1.2rem;
-  padding-bottom: 1.2rem;
+
+    background: linear-gradient(
+        90deg,
+        var(--verde-oscuro),
+        var(--verde)
+    );
+
+    color: rgba(255,255,255,.92);
+
+    border-top: 5px solid var(--amarillo);
+
+    padding-top: 1.3rem;
+    padding-bottom: 1.3rem;
+
+    font-size: .95rem;
+
 }
 
+.nav-footer a{
+
+    color:white;
+    text-decoration:none;
+
+}
+
+.nav-footer a:hover{
+
+    text-decoration:underline;
+
+}
 
 /* ---------------------------------------------------------
    Celulares

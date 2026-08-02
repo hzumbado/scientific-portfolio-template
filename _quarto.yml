@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Portafolio Científico"
+
   navbar:
     left:
       - href: index.qmd
@@ -13,6 +14,15 @@ website:
       - href: portfolio.qmd
         text: Portafolio
 
+  page-footer:
+    center: |
+      **Ecología de Poblaciones y Comunidades**
+
+      Escuela de Ciencias Biológicas · Universidad Nacional
+
+    right: |
+      Desarrollado con Quarto - GitHub Pages
+
 format:
   html:
     theme:
@@ -21,5 +31,3 @@ format:
     css: styles.css
     toc: true
     lang: es
-
-
