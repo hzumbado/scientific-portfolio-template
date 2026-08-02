@@ -663,3 +663,23 @@ text-align:center;
 }
 
 }
+
+/* Organización vertical del texto central del footer */
+
+.footer-curso {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  text-align: center;
+}
+
+.footer-titulo {
+  display: block;
+  font-weight: 700;
+}
+
+.footer-institucion {
+  display: block;
+  font-weight: 400;
+}

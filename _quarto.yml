@@ -16,12 +16,12 @@ website:
 
   page-footer:
     center: |
-      **Ecología de Poblaciones y Comunidades**
-
-      Escuela de Ciencias Biológicas · Universidad Nacional
-
+      <div class="footer-curso">
+        <span class="footer-titulo">Ecología de Poblaciones y Comunidades</span>
+        <span class="footer-institucion">Escuela de Ciencias Biológicas · Universidad Nacional</span>
+      </div>
     right: |
-      Desarrollado con Quarto - GitHub Pages
+      Desarrollado con Quarto · GitHub Pages
 
 format:
   html:
