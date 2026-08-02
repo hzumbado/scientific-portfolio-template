@@ -1,0 +1,7 @@
+---
+title: "Portafolio"
+format: html
+editor: visual
+---
+
+Aquí se documentarán las prácticas, proyectos y productos académicos.
