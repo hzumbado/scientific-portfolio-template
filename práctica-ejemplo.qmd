@@ -1,14 +1,8 @@
 ---
-title: "práctica-ejemplo"
+title: "Práctica (ejemplo)"
 format: html
 editor: visual
 ---
-
----
-title: "Práctica de ejemplo"
----
-
-# Práctica de ejemplo
 
 ## Objetivo
 

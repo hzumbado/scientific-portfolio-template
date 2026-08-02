@@ -89,5 +89,54 @@
     "title": "Portafolio académico",
     "section": "Prácticas",
     "text": "Prácticas\n\nPráctica de ejemplo"
+  },
+  {
+    "objectID": "práctica-ejemplo.html",
+    "href": "práctica-ejemplo.html",
+    "title": "práctica-ejemplo",
+    "section": "",
+    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#objetivo",
+    "href": "práctica-ejemplo.html#objetivo",
+    "title": "práctica-ejemplo",
+    "section": "",
+    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#materiales-y-herramientas",
+    "href": "práctica-ejemplo.html#materiales-y-herramientas",
+    "title": "práctica-ejemplo",
+    "section": "Materiales y herramientas",
+    "text": "Materiales y herramientas\n\nRStudio\nQuarto\nGit\nGitHub"
+  },
+  {
+    "objectID": "práctica-ejemplo.html#procedimiento",
+    "href": "práctica-ejemplo.html#procedimiento",
+    "title": "práctica-ejemplo",
+    "section": "Procedimiento",
+    "text": "Procedimiento\nExplique de forma ordenada los pasos realizados durante la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#resultados",
+    "href": "práctica-ejemplo.html#resultados",
+    "title": "práctica-ejemplo",
+    "section": "Resultados",
+    "text": "Resultados\nIncluya aquí los principales resultados obtenidos."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#figuras-y-tablas",
+    "href": "práctica-ejemplo.html#figuras-y-tablas",
+    "title": "práctica-ejemplo",
+    "section": "Figuras y tablas",
+    "text": "Figuras y tablas\nAgregue las figuras, tablas o capturas de pantalla necesarias para documentar el trabajo."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#reflexión-final",
+    "href": "práctica-ejemplo.html#reflexión-final",
+    "title": "práctica-ejemplo",
+    "section": "Reflexión final",
+    "text": "Reflexión final\nResponda brevemente:\n\n¿Qué aprendí?\n¿Qué dificultad encontré?\n¿Cómo podría aplicar esta herramienta o conocimiento en otro contexto?"
   }
 ]
