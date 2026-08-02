@@ -55,4 +55,19 @@ Registro de las prácticas, proyectos y productos desarrollados durante el semes
 
 ------------------------------------------------------------------------
 
+## Herramientas y afiliación
+
+Este portafolio fue desarrollado con herramientas de ciencia reproducible.
+
+::: {.logos-portada}
+
+![](images/logo-una.png){width=150}
+
+![](images/logo-github.png){width=70}
+
+![](images/logo-quarto.png){width=70}
+
+:::
+
+
 **Última actualización:** Agosto 2026
