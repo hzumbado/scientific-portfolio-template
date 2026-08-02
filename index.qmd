@@ -1,7 +1,37 @@
 ---
-title: "Scientific Portfolio"
+title: "Inicio"
 ---
 
-This is a Quarto website.
+## Nombre Apellido
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Estudiante de Bachillerato en Biología**  
+Escuela de Ciencias Biológicas  
+Universidad Nacional, Costa Rica
+
+---
+
+## Bienvenido(a)
+
+Este sitio web constituye mi **portafolio digital académico**, donde documentaré las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso **Ecología de Poblaciones y Comunidades**.
+
+Este portafolio utiliza herramientas de ciencia reproducible como **R**, **Quarto**, **Git** y **GitHub**, permitiendo organizar y compartir mi trabajo de manera profesional.
+
+---
+
+## Contenido del sitio
+
+### Perfil
+
+Información personal, intereses académicos y experiencia.
+
+### Portafolio
+
+Registro de las prácticas, proyectos y productos desarrollados durante el semestre.
+
+---
+
+> *"La ciencia solo adquiere valor cuando puede ser comunicada y reproducida."*
+
+---
+
+**Última actualización:** Agosto 2026

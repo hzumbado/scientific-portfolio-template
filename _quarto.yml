@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Scientific Portfolio"
+  title: "Portafolio Científico"
   navbar:
     left:
       - href: index.qmd

@@ -1,7 +1,21 @@
 ---
-title: "Portafolio"
+title: "Portafolio académico"
 format: html
 editor: visual
 ---
 
-Aquí se documentarán las prácticas, proyectos y productos académicos.
+En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso **Ecología de Poblaciones y Comunidades**.
+
+Cada práctica incluirá, según corresponda:
+
+- objetivos;
+- materiales y herramientas utilizadas;
+- procedimiento;
+- código y análisis;
+- resultados;
+- figuras y tablas;
+- reflexión final.
+
+## Prácticas
+
+- [Práctica de ejemplo](practica-ejemplo.qmd)

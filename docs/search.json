@@ -2,9 +2,9 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "Portafolio",
+    "title": "Portafolio académico",
     "section": "",
-    "text": "Aquí se documentarán las prácticas, proyectos y productos académicos."
+    "text": "En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nCada práctica incluirá, según corresponda:"
   },
   {
     "objectID": "about.html",
@@ -42,6 +42,13 @@
     "text": "Universidad Nacional (UNA)\nBachillerato en Biología\nAño de ingreso – Presente"
   },
   {
+    "objectID": "about.html#idiomas",
+    "href": "about.html#idiomas",
+    "title": "Perfil",
+    "section": "",
+    "text": "Español (nativo)\nInglés (Dominio global)"
+  },
+  {
     "objectID": "about.html#contacto",
     "href": "about.html#contacto",
     "title": "Perfil",
@@ -49,10 +56,38 @@
     "text": "Correo electrónico\nnombre.apellido@est.una.ac.cr\nGitHub\nhttps://github.com/usuario\nORCID (opcional)\nhttps://orcid.org/0000-0000-0000-0000\nLinkedIn (opcional)\nhttps://linkedin.com/in/usuario"
   },
   {
-    "objectID": "about.html#idiomas",
-    "href": "about.html#idiomas",
-    "title": "Perfil",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inicio",
     "section": "",
-    "text": "Español (nativo)\nInglés (Dominio global)"
+    "text": "Estudiante de Bachillerato en Biología\nEscuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica"
+  },
+  {
+    "objectID": "index.html#nombre-apellido",
+    "href": "index.html#nombre-apellido",
+    "title": "Inicio",
+    "section": "",
+    "text": "Estudiante de Bachillerato en Biología\nEscuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica"
+  },
+  {
+    "objectID": "index.html#bienvenidoa",
+    "href": "index.html#bienvenidoa",
+    "title": "Inicio",
+    "section": "Bienvenido(a)",
+    "text": "Bienvenido(a)\nEste sitio web constituye mi portafolio digital académico, donde documentaré las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nEste portafolio utiliza herramientas de ciencia reproducible como R, Quarto, Git y GitHub, permitiendo organizar y compartir mi trabajo de manera profesional."
+  },
+  {
+    "objectID": "index.html#contenido-del-sitio",
+    "href": "index.html#contenido-del-sitio",
+    "title": "Inicio",
+    "section": "Contenido del sitio",
+    "text": "Contenido del sitio\n\nPerfil\nInformación personal, intereses académicos y experiencia.\n\n\nPortafolio\nRegistro de las prácticas, proyectos y productos desarrollados durante el semestre.\n\n\n“La ciencia solo adquiere valor cuando puede ser comunicada y reproducida.”\n\n\nÚltima actualización: Agosto 2026"
+  },
+  {
+    "objectID": "portfolio.html#prácticas",
+    "href": "portfolio.html#prácticas",
+    "title": "Portafolio académico",
+    "section": "Prácticas",
+    "text": "Prácticas\n\nPráctica de ejemplo"
   }
 ]
