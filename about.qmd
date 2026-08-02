@@ -1,5 +1,70 @@
 ---
-title: "About"
+title: "Perfil"
 ---
 
-About this site
+# Nombre Apellido
+
+![](images/profile.png){fig-align="center"}
+
+**Estudiante de Bachillerato en Biología**\
+Escuela de Ciencias Biológicas\
+Universidad Nacional, Costa Rica
+
+------------------------------------------------------------------------
+
+## Biografía
+
+Escriba un breve párrafo (100–150 palabras) donde describa quién es, su formación académica, sus principales intereses científicos y sus metas profesionales.
+
+------------------------------------------------------------------------
+
+## Áreas de interés
+
+- Ecología
+- Conservación
+- Biogeografía
+- Herpetología
+- Ciencia de datos
+
+------------------------------------------------------------------------
+
+## Habilidades
+
+- R
+- Quarto
+- Git y GitHub
+- QGIS
+- Microsoft Office
+
+------------------------------------------------------------------------
+
+## Formación académica
+
+**Universidad Nacional (UNA)**\
+Bachillerato en Biología\
+*Año de ingreso – Presente*
+
+## Idiomas
+
+- Español (nativo)
+- Inglés (Dominio global)
+
+------------------------------------------------------------------------
+
+## Contacto
+
+**Correo electrónico**
+
+nombre.apellido\@est.una.ac.cr
+
+**GitHub**
+
+https://github.com/usuario
+
+**ORCID** *(opcional)*
+
+https://orcid.org/0000-0000-0000-0000
+
+**LinkedIn** *(opcional)*
+
+https://linkedin.com/in/usuario

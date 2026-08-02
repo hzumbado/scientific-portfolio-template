@@ -9,8 +9,50 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Perfil",
     "section": "",
-    "text": "About this site"
+    "text": "Estudiante de Bachillerato en Biología\nEscuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n\n\nEscriba un breve párrafo (100–150 palabras) donde describa quién es, su formación académica, sus principales intereses científicos y sus metas profesionales.\n\n\n\n\n\nEcología\nConservación\nBiogeografía\nHerpetología\nCiencia de datos\n\n\n\n\n\n\nR\nQuarto\nGit y GitHub\nQGIS\nMicrosoft Office\n\n\n\n\n\nUniversidad Nacional (UNA)\nBachillerato en Biología\nAño de ingreso – Presente\n\n\n\n\nEspañol (nativo)\nInglés (Dominio global)\n\n\n\n\n\nCorreo electrónico\nnombre.apellido@est.una.ac.cr\nGitHub\nhttps://github.com/usuario\nORCID (opcional)\nhttps://orcid.org/0000-0000-0000-0000\nLinkedIn (opcional)\nhttps://linkedin.com/in/usuario"
+  },
+  {
+    "objectID": "about.html#biografía",
+    "href": "about.html#biografía",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escriba un breve párrafo (100–150 palabras) donde describa quién es, su formación académica, sus principales intereses científicos y sus metas profesionales."
+  },
+  {
+    "objectID": "about.html#áreas-de-interés",
+    "href": "about.html#áreas-de-interés",
+    "title": "Perfil",
+    "section": "",
+    "text": "Ecología\nConservación\nBiogeografía\nHerpetología\nCiencia de datos"
+  },
+  {
+    "objectID": "about.html#habilidades",
+    "href": "about.html#habilidades",
+    "title": "Perfil",
+    "section": "",
+    "text": "R\nQuarto\nGit y GitHub\nQGIS\nMicrosoft Office"
+  },
+  {
+    "objectID": "about.html#formación-académica",
+    "href": "about.html#formación-académica",
+    "title": "Perfil",
+    "section": "",
+    "text": "Universidad Nacional (UNA)\nBachillerato en Biología\nAño de ingreso – Presente"
+  },
+  {
+    "objectID": "about.html#contacto",
+    "href": "about.html#contacto",
+    "title": "Perfil",
+    "section": "",
+    "text": "Correo electrónico\nnombre.apellido@est.una.ac.cr\nGitHub\nhttps://github.com/usuario\nORCID (opcional)\nhttps://orcid.org/0000-0000-0000-0000\nLinkedIn (opcional)\nhttps://linkedin.com/in/usuario"
+  },
+  {
+    "objectID": "about.html#idiomas",
+    "href": "about.html#idiomas",
+    "title": "Perfil",
+    "section": "",
+    "text": "Español (nativo)\nInglés (Dominio global)"
   }
 ]
