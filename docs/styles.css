@@ -683,3 +683,49 @@ text-align:center;
   display: block;
   font-weight: 400;
 }
+
+/* =========================================================
+   ENLACES DEL PERFIL
+   ========================================================= */
+
+/* =========================================================
+   ENLACES DEL PERFIL
+   ========================================================= */
+
+.enlaces-perfil {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.4rem;
+}
+
+.enlaces-perfil p {
+  margin: 0;
+}
+
+.enlaces-perfil a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.62rem 0.9rem;
+  color: #ffffff;
+  background-color: var(--morado);
+  border-radius: 10px;
+  font-weight: 650;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(37, 50, 56, 0.12);
+  transition:
+    transform 0.15s ease,
+    background-color 0.15s ease;
+}
+
+.enlaces-perfil a:hover {
+  color: #ffffff;
+  background-color: #5b21b6;
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.enlaces-perfil i {
+  font-size: 1.05rem;
+}
