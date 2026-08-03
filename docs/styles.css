@@ -293,31 +293,6 @@ tbody tr:nth-child(even) {
    Tarjetas para las prácticas
    --------------------------------------------------------- */
 
-.portfolio-item {
-  background: linear-gradient(
-    135deg,
-    #ffffff,
-    #eef8f6
-  );
-
-  border: 1px solid var(--borde);
-  border-left: 7px solid var(--coral);
-  border-radius: 14px;
-  padding: 1.35rem 1.5rem;
-  margin-bottom: 1.25rem;
-
-  box-shadow: 0 6px 18px rgba(37, 50, 56, 0.07);
-
-  transition:
-    transform 0.18s ease,
-    box-shadow 0.18s ease;
-}
-
-
-.portfolio-item:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 24px rgba(37, 50, 56, 0.13);
-}
 
 
 /* ---------------------------------------------------------
@@ -728,4 +703,61 @@ text-align:center;
 
 .enlaces-perfil i {
   font-size: 1.05rem;
+}
+
+/* =========================================================
+   MEJORA DE LAS CAJAS DEL PORTAFOLIO
+   ========================================================= */
+
+/* =========================================================
+   CAJAS DEL PORTAFOLIO
+   ========================================================= */
+
+.portfolio-item {
+  margin: 1.8rem 0;
+  padding: 1.8rem 2rem;
+
+  background: linear-gradient(
+    135deg,
+    #fff4dc,
+    #f3edff
+  );
+
+  border: 3px solid var(--morado);
+  border-left: 12px solid var(--coral);
+  border-radius: 20px;
+
+  box-shadow: 0 10px 25px rgba(37, 50, 56, 0.16);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.portfolio-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 32px rgba(37, 50, 56, 0.22);
+}
+
+.portfolio-item h3 {
+  margin-top: 0;
+  color: var(--morado);
+}
+
+.portfolio-item a {
+  display: inline-block;
+  margin-top: 0.7rem;
+  padding: 0.6rem 1rem;
+
+  background-color: var(--verde);
+  color: #ffffff !important;
+
+  border-radius: 10px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.portfolio-item a:hover {
+  background-color: var(--verde-oscuro);
+  text-decoration: none;
 }

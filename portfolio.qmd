@@ -8,39 +8,33 @@ En esta sección se documentan las prácticas de laboratorio, proyectos, anális
 
 Cada práctica constituye una evidencia del aprendizaje adquirido durante el semestre y forma parte de mi portafolio profesional.
 
----
+------------------------------------------------------------------------
 
 ## Prácticas de laboratorio
 
-::: {.portfolio-item}
-
+::: portfolio-item
 ### 📄 Práctica de ejemplo
 
 Introducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.
 
 [Ver práctica →](práctica-ejemplo.qmd)
-
 :::
 
-::: {.portfolio-item}
-
+::: portfolio-item
 ### 📚 Gestión de referencias bibliográficas con Zotero
 
 *Disponible próximamente.*
 
 En esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.
-
 :::
 
-::: {.portfolio-item}
-
+::: portfolio-item
 ### 📊 Próximas prácticas
 
 Las siguientes prácticas y proyectos se incorporarán conforme avance el curso.
-
 :::
 
----
+------------------------------------------------------------------------
 
 ## Objetivo del portafolio
 
